@@ -6,4 +6,5 @@
 
 ## Images and videos databases
 
-* https://www.pexels.com/
+* https://www.pexels.com
+* https://www.canva.com
