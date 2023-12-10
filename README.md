@@ -14,9 +14,13 @@ A list of channels I follow
 
 ## Video edition
 
-* https://invideo.io
+- https://invideo.io
 
 ## Images and videos databases
 
-* https://www.pexels.com
-* https://www.canva.com
+- https://www.pexels.com
+- https://www.canva.com
+
+## Thmbnails
+
+- https://www.canva.com
