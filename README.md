@@ -7,10 +7,13 @@ A list of channels I follow
 - https://www.youtube.com/@academind also on packtpub
 - https://www.youtube.com/@TraversyMedia also on packtpub
 - https://www.youtube.com/@programmingwithmosh nice one
-- https://www.youtube.com/@codewithguillaume on linkedin, french
-- https://www.youtube.com/@melvynxdev on linkedin, french
-- https://www.youtube.com/@BenjaminCode on twitter, french
-- https://www.youtube.com/@grafikart french
+
+## French
+
+- https://www.youtube.com/@codewithguillaume on linkedin
+- https://www.youtube.com/@melvynxdev on linkedin
+- https://www.youtube.com/@BenjaminCode on twitter
+- https://www.youtube.com/@grafikart
 
 # TOOLS
 
