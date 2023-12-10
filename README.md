@@ -1,5 +1,7 @@
 # Awesome YouTube
 
+A list of channels I follow
+
 # CODING CHANNELS
 
 - https://www.youtube.com/@academind also on packtpub
