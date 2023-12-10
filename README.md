@@ -10,6 +10,7 @@ A list of channels I follow
 - https://www.youtube.com/@codewithguillaume on linkedin, french
 - https://www.youtube.com/@melvynxdev on linkedin, french
 - https://www.youtube.com/@BenjaminCode on twitter, french
+- https://www.youtube.com/@grafikart french
 
 # TOOLS
 
